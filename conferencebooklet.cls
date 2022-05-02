@@ -72,6 +72,8 @@
 
 \usepackage{microtype} % Improve typography
 
+\usepackage{hanging} %indent of references
+
 %----------------------------------------------------------------------------------------
 %	COLOURS
 %----------------------------------------------------------------------------------------
@@ -191,13 +193,15 @@
 \vspace{0.5em}
 {\setlength{\parindent}{0cm}\textcolor{mygray}{Keywords: #7}}
 
-\vspace{0.5em}
-\noindent	#8 % Abstract text
+\vspace{2em}
+\noindent#8 % Abstract text
 
-\vspace{0.5em}
-{\setlength{\parindent}{0cm}
-	#9}
+\vspace{1em}
+\begin{hangparas}{2em}{1} 
+#9
+\end{hangparas}
 }
+
 
 %----------------------------------------------------------------------------------------
 %	POSTER STYLING (SHORT)
