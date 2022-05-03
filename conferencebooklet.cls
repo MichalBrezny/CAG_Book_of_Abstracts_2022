@@ -54,7 +54,7 @@
 	top=2.5cm, % Top margin
 	bottom=2.5cm, % Bottom margin
 	inner=1.5cm, % Inner margin
-	outer=3cm, % Outer margin
+	outer=2.5cm, % Outer margin
 	footskip=1.4cm, % Space from the bottom margin to the baseline of the footer
 	headsep=0.8cm, % Space from the top margin to the baseline of the header
 	headheight=0.5cm, % Height of the header
