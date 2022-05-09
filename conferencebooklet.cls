@@ -179,7 +179,8 @@
 %----------------------------------------------------------------------------------------
 
 \newcommand{\abstract}[9]{
-	\filbreak % Avoid page breaks within abstracts
+	%\filbreak % Avoid page breaks within abstracts
+	\newpage
 	{\section[tocentry={\textbf{#2}: #1}]{#1}} % Title
 	
 {\setlength{\parindent}{0cm}{\itshape #3} \hfill {#4}} % Author(s) and abstract type
@@ -193,11 +194,11 @@
 \vspace{0.5em}
 {\setlength{\parindent}{0cm}\textcolor{mygray}{Keywords: #7}}
 
-\vspace{2em}
+\vspace{1em}
 \noindent#8 % Abstract text
 
 \vspace{1em}
-\begin{hangparas}{2em}{1} 
+\begin{hangparas}{1.5em}{1} 
 #9
 \end{hangparas}
 }
