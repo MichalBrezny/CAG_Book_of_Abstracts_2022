@@ -189,7 +189,7 @@
 {\setlength{\parindent}{0cm}\textcolor{mygray}{#5}} % Affiliation(s)
 
 \vspace{0.5em}
-{\setlength{\parindent}{0cm}\textcolor{mygray}{Correspondig author: #6}} % Correspondig author e-mail
+{\setlength{\parindent}{0cm}\textcolor{mygray}{*Correspondig author's e-mail: #6}} % Correspondig author e-mail
 
 \vspace{0.5em}
 {\setlength{\parindent}{0cm}\textcolor{mygray}{Keywords: #7}}

@@ -2,69 +2,68 @@
 \contentsline {section}{\nonumberline State of geomorphological research in 2022}{6}{section*.4}%
 \contentsline {section}{\nonumberline Organizing committee}{6}{section*.6}%
 \contentsline {section}{\nonumberline Organising institutions:}{6}{section*.8}%
-\contentsline {chapter}{\nonumberline Under the auspices}{7}{chapter*.9}%
 \contentsline {chapter}{\nonumberline Timetable}{8}{chapter*.10}%
 \contentsline {section}{\nonumberline Preconference workshop}{8}{section*.12}%
 \contentsline {section}{\nonumberline Wednesday May 18, 2022}{8}{section*.14}%
 \contentsline {section}{\nonumberline Thursday May 19, 2022}{8}{section*.16}%
 \contentsline {section}{\nonumberline Friday May 20, 2022}{8}{section*.18}%
 \contentsline {chapter}{\nonumberline List of Abstracts}{9}{chapter*.19}%
-\contentsline {section}{\nonumberline \textbf {Balla and Kiss}: Deposition and Mobilization of Microplastics in a Low-Energy Fluvial Environment}{10}{section*.21}%
-\contentsline {section}{\nonumberline \textbf {Baroň et al.}: Coseismic Slope Failures Due to 2009 M\textsubscript {w} 6.2 EQ Near Poas, Costa Rica and Their Relevance for Landslide Research in Outer Western Carpathians}{12}{section*.23}%
-\contentsline {section}{\nonumberline \textbf {Bartyik et al.}: Temporal Relationship of Deglaciation Phases and Palaeodischarges on the Catchment of River Maros, Central Europe}{13}{section*.25}%
-\contentsline {section}{\nonumberline \textbf {Blahůt et al.}: Novel Landslide Mapping in Selected Areas of Northern Czechia Within the Framework of the RENS Project}{14}{section*.27}%
-\contentsline {section}{\nonumberline \textbf {Bouda and Kapustová}: Half Year of Ground Microexhalations Temperature Monitoring on Landslides in Moravian-Silesian Beskids}{15}{section*.29}%
+\contentsline {section}{\nonumberline \textbf {Balla and Kiss}: Deposition and mobilization of microplastics in a low-energy fluvial environment}{10}{section*.21}%
+\contentsline {section}{\nonumberline \textbf {Baroň et al.}: Coseismic slope failures due to 2009 M\textsubscript {w} 6.2 EQ near Poas, Costa Rica and their relevance for landslide research in Outer Western Carpathians}{12}{section*.23}%
+\contentsline {section}{\nonumberline \textbf {Bartyik et al.}: Temporal relationship of deglaciation phases and palaeodischarges on the catchment of river Maros, Central Europe}{13}{section*.25}%
+\contentsline {section}{\nonumberline \textbf {Blahůt et al.}: Novel landslide mapping in selected areas of northern Czechia within the framework of the RENS project}{14}{section*.27}%
+\contentsline {section}{\nonumberline \textbf {Bouda and Kapustová}: Half year of ground microexhalations temperature monitoring on landslides in Moravian-Silesian Beskids}{15}{section*.29}%
 \contentsline {section}{\nonumberline \textbf {Břežný et al.}: Landslides and rockfalls in Antarctica: preliminary results of surface exposure dating from James Ross Archipelago}{17}{section*.31}%
-\contentsline {section}{\nonumberline \textbf {Dlabáčková et al.}: Chronology and Morphology of Rock Glaciers in the Western Tatra Mts., Western Carpathians}{19}{section*.33}%
-\contentsline {section}{\nonumberline \textbf {Dostalík and Novotný}: Deglaciation in Kazbegi High Mountain Region in Georgia and Its Impact on the Activation of Catastrophic Debris Flows}{20}{section*.35}%
-\contentsline {section}{\nonumberline \textbf {Dostalík et al.}: CGS Development Cooperation Project \enquote {Georgia 2021} - Assessment of Geological Hazards in the Kazbegi Area}{21}{section*.37}%
+\contentsline {section}{\nonumberline \textbf {Dlabáčková et al.}: Chronology and morphology of rock glaciers in the Western Tatra Mts., Western Carpathians}{19}{section*.33}%
+\contentsline {section}{\nonumberline \textbf {Dostalík and Novotný}: Deglaciation in Kazbegi high mountain region in Georgia and its impact on the activation of catastrophic debris flows}{20}{section*.35}%
+\contentsline {section}{\nonumberline \textbf {Dostalík et al.}: CGS development cooperation project \enquote {Georgia 2021} -- assessment of geological hazards in the Kazbegi area}{21}{section*.37}%
 \contentsline {section}{\nonumberline \textbf {Fabiánová A.}: Development and recent dynamics of rockslide in the Hercynian orogeny (the Rudohorský potok basin; the Hrubý Jeseník Mts.)}{23}{section*.39}%
 \contentsline {section}{\nonumberline \textbf {Findžová et al.}: Verification of the \enquote {Čirá - Kopanina} fault zone using morphostructural analysis and geophysical methods}{24}{section*.41}%
-\contentsline {section}{\nonumberline \textbf {Galia et al.}: Transport, Retention and Geomorphic Impact of Large Wood in a Meandering River}{25}{section*.43}%
-\contentsline {section}{\nonumberline \textbf {Hartvich et al.}: Stability of Cultural Heritage Objects: A Phantom Menace?}{26}{section*.45}%
-\contentsline {section}{\nonumberline \textbf {Holušová and Galia}: Spatiotemporal Dynamics of Gravel Bars and Vegetation Cover of Two Carpathian Rivers}{27}{section*.47}%
-\contentsline {section}{\nonumberline \textbf {Chalupa et al.}: Low-Topography Deep-Seated Gravitational Slope Deformation: Slope Instability of Flysch Thrust Fronts (Outer Western Carpathians)}{29}{section*.49}%
-\contentsline {section}{\nonumberline \textbf {Jančovič and Kidová}: Geomorphological Approach to Identification of Flood Hazard Hotspots Within Marginalized Roma Communities in Slovakia}{30}{section*.51}%
-\contentsline {section}{\nonumberline \textbf {Kidová et al.}: The Impact of the River Training on the Multi-Thread River System as a Part of the Natura 2000 Protected Area}{32}{section*.53}%
-\contentsline {section}{\nonumberline \textbf {Kiss and Fehérváry}: Local Geomorphological Factors Influencing Flood Hazard, Lower Tisza, Hungary}{33}{section*.55}%
-\contentsline {section}{\nonumberline \textbf {Klimeš and Šilhán}: Application of Tree-Ring Microscopic Anatomy for Landslide Hazard Assessment -- Perspectives and Limitations}{34}{section*.57}%
+\contentsline {section}{\nonumberline \textbf {Galia et al.}: Transport, retention and geomorphic impact of large wood in a meandering river}{25}{section*.43}%
+\contentsline {section}{\nonumberline \textbf {Hartvich et al.}: Stability of cultural heritage objects: a phantom menace?}{26}{section*.45}%
+\contentsline {section}{\nonumberline \textbf {Holušová and Galia}: Spatiotemporal dynamics of gravel bars and vegetation cover of two Carpathian rivers}{27}{section*.47}%
+\contentsline {section}{\nonumberline \textbf {Chalupa et al.}: Low-topography deep-seated gravitational slope deformation: Slope instability of flysch thrust fronts (Outer Western Carpathians)}{29}{section*.49}%
+\contentsline {section}{\nonumberline \textbf {Jančovič and Kidová}: Geomorphological approach to identification of flood hazard hotspots within marginalized Roma communities in Slovakia}{30}{section*.51}%
+\contentsline {section}{\nonumberline \textbf {Kidová et al.}: The impact of the river training on the multi-thread river system as a part of the Natura 2000 protected area}{32}{section*.53}%
+\contentsline {section}{\nonumberline \textbf {Kiss and Fehérváry}: Local geomorphological factors influencing flood hazard, Lower Tisza, Hungary}{33}{section*.55}%
+\contentsline {section}{\nonumberline \textbf {Klimeš and Šilhán}: Application of tree-ring microscopic anatomy for landslide hazard assessment – perspectives and limitations}{34}{section*.57}%
 \contentsline {section}{\nonumberline \textbf {Kozák and Šilhán}: Activity of landslide processes in the area of Hřebečský hřbet}{36}{section*.59}%
-\contentsline {section}{\nonumberline \textbf {Kubalíková L.}: Geomorphological Heritage in Urban Areas: Identification, Conservation, Management}{37}{section*.61}%
-\contentsline {section}{\nonumberline \textbf {Kubalíková et al.}: Linking Geomorphological and Archaeological Research at Geoarcheological Site Holedná Hill in Brno, Czech Republic}{39}{section*.63}%
-\contentsline {section}{\nonumberline \textbf {Kusák M.}: 3D Rockfall Modeling, Natural Hazard and Risk Assessment for Rockfall Protection in Hřensko (Czechia)}{41}{section*.65}%
-\contentsline {section}{\nonumberline \textbf {Kusák M.}: How Not to Lose Young Researchers from Science Fields}{42}{section*.67}%
+\contentsline {section}{\nonumberline \textbf {Kubalíková L.}: Geomorphological heritage in urban Areas: identification, conservation, management}{37}{section*.61}%
+\contentsline {section}{\nonumberline \textbf {Kubalíková et al.}: Linking geomorphological and archaeological research at geoarcheological site Holedná Hill in Brno, Czech Republic}{39}{section*.63}%
+\contentsline {section}{\nonumberline \textbf {Kusák M.}: 3D rockfall modeling, natural hazard and risk assessment for rockfall protection in Hřensko (Czechia)}{41}{section*.65}%
+\contentsline {section}{\nonumberline \textbf {Kusák M.}: How not to lose young researchers from science fields?}{42}{section*.67}%
 \contentsline {section}{\nonumberline \textbf {Labaš and Kidová}: Human intervention and flood events as key factors affecting the recent degradation of the Hornád River}{43}{section*.69}%
 \contentsline {section}{\nonumberline \textbf {Labaš et al.}: Identification of benches and ledges within the braided-wandering floodplain formation}{44}{section*.71}%
-\contentsline {section}{\nonumberline \textbf {Lehotský et al.}: Geomorphic-Sedimentary Adjustment of a River Reach With Groynes to Channel Bypassing}{46}{section*.73}%
-\contentsline {section}{\nonumberline \textbf {Lenart et al.}: The Abandoned Underground Mine as a Semi-Natural Ecosystem: The Story of Flaschar's Mine (Czechia)}{47}{section*.75}%
-\contentsline {section}{\nonumberline \textbf {Lieskovský and Kenderessy}: Erosion Process and Abandonement as Main Drivers of Traditional Vineyards Degradation: A Case Study Vráble Viticulture District, Slovakia}{48}{section*.77}%
-\contentsline {section}{\nonumberline \textbf {Lieskovský et al.}: Using Airborne Lidar Data for Detecting Anthropogenic Landforms in Poiplie Region}{49}{section*.79}%
-\contentsline {section}{\nonumberline \textbf {Liro et al.}: Macroplastic Debris in a Mountain River: Does Geomorphology Matters?}{50}{section*.81}%
-\contentsline {section}{\nonumberline \textbf {Loche et al.}: Land Surface Temperature Controls Stability in Gentle Clay Slopes}{51}{section*.83}%
+\contentsline {section}{\nonumberline \textbf {Lehotský et al.}: Geomorphic-sedimentary adjustment of a river reach with groynes to channel bypassing}{46}{section*.73}%
+\contentsline {section}{\nonumberline \textbf {Lenart et al.}: The abandoned underground mine as a semi-natural ecosystem: the story of Flaschar's Mine (Czechia)}{47}{section*.75}%
+\contentsline {section}{\nonumberline \textbf {Lieskovský and Kenderessy}: Erosion process and abandonement as main drivers of traditional vineyards degradation: a case study Vráble viticulture district, Slovakia}{48}{section*.77}%
+\contentsline {section}{\nonumberline \textbf {Lieskovský et al.}: Using airborne lidar data for detecting anthropogenic landforms in Poiplie region}{49}{section*.79}%
+\contentsline {section}{\nonumberline \textbf {Liro et al.}: Macroplastic debris in a mountain river: Does geomorphology matters?}{50}{section*.81}%
+\contentsline {section}{\nonumberline \textbf {Loche et al.}: Land surface temperature controls stability in gentle clay slopes}{51}{section*.83}%
 \contentsline {section}{\nonumberline \textbf {Michaleje L.}: Preliminary flood hazard assessment based on detailed LiDAR data}{52}{section*.85}%
-\contentsline {section}{\nonumberline \textbf {Mikuś and Wyżga}: Long-Term Monitoring of the Recruitment and Dynamics of Large Wood in Kamienica Stream, Polish Carpathians}{53}{section*.87}%
-\contentsline {section}{\nonumberline \textbf {Mohsen et al.}: Sediment Discharge Estimation of Lowland Rivers Using Sentinel-2 Images and Machine Learning Algorithms}{55}{section*.89}%
-\contentsline {section}{\nonumberline \textbf {Novotný et al.}: Geodiversity Assessment of the Western Carpathians}{57}{section*.91}%
+\contentsline {section}{\nonumberline \textbf {Mikuś and Wyżga}: Long-term monitoring of the recruitment and dynamics of large wood in Kamienica Stream, Polish Carpathians}{53}{section*.87}%
+\contentsline {section}{\nonumberline \textbf {Mohsen et al.}: Sediment discharge estimation of lowland rivers using Sentinel-2 images and machine learning algorithms}{55}{section*.89}%
+\contentsline {section}{\nonumberline \textbf {Novotný et al.}: Geodiversity assessment of the Western Carpathians}{57}{section*.91}%
 \contentsline {section}{\nonumberline \textbf {Ondráčková L.}: Practical experience of a fluvial geomorphologist in the context of landscape changes}{58}{section*.93}%
 \contentsline {section}{\nonumberline \textbf {Pánek et al.}: Large landslides along the eastern margin of Patagonian Ice Sheet: distribution, causes and timing}{59}{section*.95}%
-\contentsline {section}{\nonumberline \textbf {Patrnčiak and Štěpančíková}: Morphometry of ŽElezné Hory Mts. Fault}{60}{section*.97}%
-\contentsline {section}{\nonumberline \textbf {Pavlek and Čanjevac}: The Impact of River Engineering Works and Flood Events on Channel Migration Rates on the Orljava River (The Pannonian Basin, Croatia)}{61}{section*.99}%
-\contentsline {section}{\nonumberline \textbf {Połedniková and Galia}: Large Wood in Contrast Fluvial Landscapes: A Tale of Different Ecosystem Services}{62}{section*.101}%
-\contentsline {section}{\nonumberline \textbf {Racek et al.}: n-situ rock surface strain changes determination: use of resistance strain gauges}{64}{section*.103}%
-\contentsline {section}{\nonumberline \textbf {Rusinko and Horáčková}: Flash Flood Simulation in the Urbanised Catchment: A Case Study of Bratislava–Karlova Ves}{65}{section*.105}%
-\contentsline {section}{\nonumberline \textbf {Rusnák et al.}: Fluvial Habitat Assessment Using High-Resolution 3D Models}{67}{section*.107}%
-\contentsline {section}{\nonumberline \textbf {Schuchová and Lenart}: Can Abandoned Underground Mines Be Equal in Their Diversity to the Cave System?}{68}{section*.109}%
-\contentsline {section}{\nonumberline \textbf {Stemberk et al.}: From Repeated Measurements to Early Warning Systems: DAEMON Resistivity System in Landslide Monitoring}{69}{section*.111}%
-\contentsline {section}{\nonumberline \textbf {Šilhán et al.}: Laboratory of Dendrogeomorphology (Dendroman.cz): Overview and Offers}{70}{section*.113}%
-\contentsline {section}{\nonumberline \textbf {Štěpančíková et al.}: Late Pleistocene Activity of Central European Fault Driven by Ice Loading as Revealed by Geological Data and Modeling}{72}{section*.115}%
+\contentsline {section}{\nonumberline \textbf {Patrnčiak and Štěpančíková}: Morphometry of Železné Hory Mts. Fault}{60}{section*.97}%
+\contentsline {section}{\nonumberline \textbf {Pavlek and Čanjevac}: The impact of river engineering works and flood events on channel migration rates on the Orljava River (the Pannonian Basin, Croatia)}{61}{section*.99}%
+\contentsline {section}{\nonumberline \textbf {Połedniková and Galia}: Large wood in contrast fluvial landscapes: A tale of different ecosystem services}{62}{section*.101}%
+\contentsline {section}{\nonumberline \textbf {Racek et al.}: In-situ rock surface strain changes determination: use of resistance strain gauges}{64}{section*.103}%
+\contentsline {section}{\nonumberline \textbf {Rusinko and Horáčková}: Flash flood simulation in the urbanised catchment: A case study of Bratislava–Karlova Ves}{65}{section*.105}%
+\contentsline {section}{\nonumberline \textbf {Rusnák et al.}: Fluvial habitat assessment using high-resolution 3D models}{67}{section*.107}%
+\contentsline {section}{\nonumberline \textbf {Schuchová and Lenart}: Can abandoned underground mines be equal in their diversity to the cave system?}{68}{section*.109}%
+\contentsline {section}{\nonumberline \textbf {Stemberk et al.}: From repeated measurements to early warning systems: DAEMON resistivity system in landslide monitoring}{69}{section*.111}%
+\contentsline {section}{\nonumberline \textbf {Šilhán et al.}: Laboratory of Dendrogeomorphology (Dendroman.cz): overview and offers}{70}{section*.113}%
+\contentsline {section}{\nonumberline \textbf {Štěpančíková et al.}: Late Pleistocene activity of Central European Fault driven by ice loading as revealed by geological data and modeling}{72}{section*.115}%
 \contentsline {section}{\nonumberline \textbf {Šuťjak et al.}: Structure of active faults revealed from 2D deep-reflection seismic profiles in the flysch belt of Outer Western Carpathians}{73}{section*.117}%
-\contentsline {section}{\nonumberline \textbf {Tábořík P.}: Joint Interpretations of Geophysical Measurements as the Key to Understand Slope Evolution}{74}{section*.119}%
-\contentsline {section}{\nonumberline \textbf {Tábořík et al.}: Special Resistivity Survey for Imaging the Sub-Aquatic Geology}{75}{section*.121}%
-\contentsline {section}{\nonumberline \textbf {Tichavský et al.}: Dendrogeomorphic Dating in the Ostrava-Karviná Mining Landscape: Processes, Events, Responses}{76}{section*.123}%
-\contentsline {section}{\nonumberline \textbf {Vaverka and Škarpich}: Spatial Characteristics of a Confluence Hydrodynamic Zones of the Vsetínská Bečva River (Javorníky Mts.): A Relationship Between Watershed and Reach Scale Morphology}{77}{section*.125}%
-\contentsline {section}{\nonumberline \textbf {Waga et al.}: Analysis of Bomb Craters Using Lidar Data (Kędzierzyn-Koźle, Poland)}{79}{section*.127}%
-\contentsline {section}{\nonumberline \textbf {Waga et al.}: Interpretation of the Small Water-Filled Bomb Craters Morphology Based on Lidar Data (Koźle Basin, Poland)}{81}{section*.129}%
-\contentsline {section}{\nonumberline \textbf {Wąs and Gorczyca}: Impact of Flood Events and Eurasian Beaver (Castor Fiber) Activity on Spontaneous Renaturalization of Łososina River in the Polish Western Carpathians}{83}{section*.131}%
-\contentsline {section}{\nonumberline \textbf {Wyżga et al.}: Changes of Fluvial Processes Caused by the Restoration of an Incised Mountain Stream}{85}{section*.133}%
+\contentsline {section}{\nonumberline \textbf {Tábořík P.}: Joint interpretations of geophysical measurements as the key to understand slope evolution}{74}{section*.119}%
+\contentsline {section}{\nonumberline \textbf {Tábořík et al.}: Special resistivity survey for imaging the sub-aquatic geology}{75}{section*.121}%
+\contentsline {section}{\nonumberline \textbf {Tichavský et al.}: Dendrogeomorphic dating in the Ostrava-Karviná mining landscape: processes, events, responses}{76}{section*.123}%
+\contentsline {section}{\nonumberline \textbf {Vaverka and Škarpich}: Spatial characteristics of a confluence hydrodynamic zones of the Vsetínská Bečva River (Javorníky Mts.): a relationship between watershed and reach scale morphology}{77}{section*.125}%
+\contentsline {section}{\nonumberline \textbf {Waga et al.}: Analysis of bomb craters using LiDAR data (Kędzierzyn-Koźle, Poland)}{79}{section*.127}%
+\contentsline {section}{\nonumberline \textbf {Waga et al.}: Interpretation of the small water-filled bomb craters morphology based on LiDAR data (Koźle Basin, Poland)}{81}{section*.129}%
+\contentsline {section}{\nonumberline \textbf {Wąs and Gorczyca}: Impact of flood events and Eurasian beaver (Castor fiber) activity on spontaneous renaturalization of Łososina River in the Polish Western Carpathians}{83}{section*.131}%
+\contentsline {section}{\nonumberline \textbf {Wyżga et al.}: Changes of fluvial processes caused by the restoration of an incised mountain stream}{85}{section*.133}%
 \contentsline {chapter}{\nonumberline Sponsors}{87}{chapter*.134}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

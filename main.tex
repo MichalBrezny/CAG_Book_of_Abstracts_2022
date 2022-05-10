@@ -50,16 +50,19 @@
 % TODO: \usepackage{graphicx} required
 
 
-\begin{center}	
+\begin{flushleft}	
 \vspace{2em}
-Book of abstracts\\
-May 18 – 20, 2022 in Horní Bečva (Czech Republic)\\
+State of geomorphological research in the year 2022 -- Book of Abstracts\\
+Michal Břežný (editor)\\
 \vspace{2em}
-Editor: Michal Břežný\\ \vspace{2em}
+Book of abstracts of the \enquote{State of geomorphological research in the year 2022} conference\\
+May 18 – 20, 2022 in Horní Bečva (Czechia)\\
+\vspace{2em}
+
 The contributions contained in this publication have not undergone language and typographical editing. The authors are responsible for the linguistic and content quality of the texts.
 \\ \vspace{2em}
 
-Publisher: University of Ostrava, Ostrava \\\vspace{2em}
+University of Ostrava, Ostrava, 2022 \\\vspace{2em}
 
 © 2022 Michal Břežný\\
 \vspace{2em}
@@ -72,8 +75,10 @@ ISBN xxxxxxxxx\\
 
 %	This is the short version of the booklet for print use. \\ Full abstracts with all authors, references, and figures can be found at:\\ \url{https://amcosconference.com/}
 
-This booklet is created using \LaTeX{} template which is based on the original version at:\\ \url{https://github.com/maximelucas/AMCOS\_booklet}
-\end{center}
+This book of abstracts is created using  modified version of the open-source AMCOS\textunderscore booklet \LaTeX{} template (original code is available at  \url{https://github.com/maximelucas/AMCOS\_booklet}).\\
+The codes used to generate this booklet including modified \LaTeX{} template are available at \url{https://github.com/MichalBrezny/CAG_Book_of_Abstracts_2022}
+
+\end{flushleft}
 
 
 
@@ -125,7 +130,7 @@ Institute of Geography, Slovak Academy of Sciences
 
 \newpage
 % TODO: \usepackage{graphicx} required
-\chapter{Under the auspices}
+\chapter*{Under the auspices}
 \begin{figure}[!htb]
 	\centering
 	\includegraphics[width=0.9\linewidth]{"images/logos/Partnerlogos/2022 04 25 záštita ČGS geomorfologové 1"}
@@ -220,8 +225,14 @@ Institute of Geography, Slovak Academy of Sciences
 
 \chapter{List of Abstracts}
 
-%\input{abstracts_talks}
+\begin{center}
+	
 
+\begin{tabular}{l l}
+\TLtag   & talk \\
+\POtag & poster
+\end{tabular}	
+\end{center}
 \input{abstracts_AE}
 \input{abstracts_FK}
 \input{abstracts_LP}
