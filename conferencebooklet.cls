@@ -53,8 +53,8 @@
 \usepackage[
 	top=2.5cm, % Top margin
 	bottom=2.5cm, % Bottom margin
-	inner=1.5cm, % Inner margin
-	outer=2.5cm, % Outer margin
+	inner=1.8cm, % Inner margin
+	outer=2cm, % Outer margin
 	footskip=1.4cm, % Space from the bottom margin to the baseline of the footer
 	headsep=0.8cm, % Space from the top margin to the baseline of the header
 	headheight=0.5cm, % Height of the header
@@ -65,12 +65,13 @@
 %	FONTS & TYPOGRAPHY
 %----------------------------------------------------------------------------------------
 
-\usepackage[utf8]{inputenc} % Required for inputting international characters
+%\usepackage[utf8]{inputenc} % Required for inputting international characters
 \usepackage[T1]{fontenc} % Output font encoding for international characters
 
 \usepackage[sfdefault, lf]{carlito} % Use the Carlito family of sans-serif fonts with lining figures
 
-\usepackage{microtype} % Improve typography
+\usepackage[protrusion = true,
+final]{microtype} % Improve typography
 
 \usepackage{hanging} %indent of references
 

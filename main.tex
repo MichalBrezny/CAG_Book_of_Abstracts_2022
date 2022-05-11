@@ -25,15 +25,18 @@
 	parskip=false, % Large space between paragraphs
 	12pt, % Default font size
 	a4paper, % Paper size, use letterpaper for US letter size
+	%draft
 ]{conferencebooklet} % Custom class defining the style and layout of the template
 
 %----------------------------------------------------------------------------------------
 \usepackage[doipre={DOI:~}]{uri}
+\usepackage{xurl}
 \usepackage{textcomp}
 \usepackage{csquotes}
 
-\begin{document}
 
+\begin{document}
+\tolerance=650
 %----------------------------------------------------------------------------------------
 %	 COVER PAGE
 %----------------------------------------------------------------------------------------
@@ -43,7 +46,8 @@
 %----------------------------------------------------------------------------------------
 %	 INFORMATION/COPYRIGHT PAGE
 %----------------------------------------------------------------------------------------
-
+\cleardoublepage
+\setcounter{page}{1}
 \thispagestyle{empty} % Suppress headers and footers on this page
 
 ~\vfill % Push text down
@@ -60,22 +64,20 @@ May 18 – 20, 2022 in Horní Bečva (Czechia)\\
 \vspace{2em}
 
 The contributions contained in this publication have not undergone language and typographical editing. The authors are responsible for the linguistic and content quality of the texts.
-\\ \vspace{2em}
-
-University of Ostrava, Ostrava, 2022 \\\vspace{2em}
-
-© 2022 Michal Břežný\\
+\\ 
 \vspace{2em}
+University of Ostrava, Faculty of Science,
+Ostrava, Czechia, 2022 \\\vspace{2em}
+
+\textcopyright 2022 Michal Břežný
+
+86 pages\\
+\vspace{1em}
 ISBN xxxxxxxxx\\
 
 \vspace{5em}
+This book of abstracts is created using  modified version of the open-source AMCOS\textunderscore booklet \LaTeX{} template (original code is available at  \url{https://github.com/maximelucas/AMCOS\_booklet}).
 
-
-
-
-%	This is the short version of the booklet for print use. \\ Full abstracts with all authors, references, and figures can be found at:\\ \url{https://amcosconference.com/}
-
-This book of abstracts is created using  modified version of the open-source AMCOS\textunderscore booklet \LaTeX{} template (original code is available at  \url{https://github.com/maximelucas/AMCOS\_booklet}).\\
 The codes used to generate this booklet including modified \LaTeX{} template are available at \url{https://github.com/MichalBrezny/CAG_Book_of_Abstracts_2022}
 
 \end{flushleft}
@@ -103,21 +105,20 @@ The thematic scope of the conference traditionally covers all geomorphological d
 
 \vspace{5em}
 \section{Organizing committee}
-
 \begin{flushleft}
-	\begin{tabular}{l l l}
-	RNDr. Veronika Kapustová, Ph.D. & Ing. Anna Kidová, PhD. & prof. RNDr. Tomáš Pánek, Ph.D.\\
-	Mgr. Radek Tichavský, Ph.D. & RNDr. Jan Lenart, Ph.D. & doc. RNDr. Tomáš Galia, Ph.D.\\
-	RNDr. Václav Škarpich, Ph.D. & Mgr. Michal Břežný, Ph.D. & doc. RNDr. Jan Hradecký, Ph.D.\\
-	prof. RNDr. Karel Šilhán, Ph.D. & Mgr. Ján Novotný, PhD. & Mgr. Miloš Rusnák, PhD.\\
-	Mgr. Zuzana Połedniková & Mgr. Adriana Holušová & Mgr. Vladimír Chalupa\\
-	Mgr. Lukáš Vaverka & Mgr. Andrea Fabiánová & Mgr. Andrius Toločka 
-	
-	\end{tabular}
+\begin{table}[h!]
+ \begin{tabular}{l l l}
+RNDr. Veronika Kapustová, Ph.D. & Ing. Anna Kidová, PhD. & Mgr. Zuzana Połedniková\\
+Mgr. Radek Tichavský, Ph.D. & Mgr. Michal Břežný, Ph.D. &  RNDr. Jan Lenart, Ph.D. \\
+RNDr. Václav Škarpich, Ph.D. & doc. RNDr. Tomáš Galia, Ph.D. & Mgr. Lukáš Vaverka\\
+prof. RNDr. Karel Šilhán, Ph.D. & Mgr. Ján Novotný, PhD. & Mgr. Miloš Rusnák, PhD.\\
+prof. RNDr. Tomáš Pánek, Ph.D. & Mgr. Adriana Holušová & Mgr. Vladimír Chalupa\\
+doc. RNDr. Jan Hradecký, Ph.D. & Mgr. Andrea Fabiánová & Mgr. Andrius Toločka 
+\end{tabular}
+\end{table}
 \end{flushleft}
 
-
-\section{Organising institutions:}
+\section{Organising institutions}
 \noindent
 Czech Association of Geomorphologists\\
 Association of Slovak Geomorphologists\\
@@ -128,12 +129,11 @@ Institute of Geography, Slovak Academy of Sciences
 	\includegraphics[width=1\linewidth]{images/geomorfologie-logolink}
 \end{figure}
 
-\newpage
 % TODO: \usepackage{graphicx} required
 \chapter*{Under the auspices}
 \begin{figure}[!htb]
 	\centering
-	\includegraphics[width=0.9\linewidth]{"images/logos/Partnerlogos/2022 04 25 záštita ČGS geomorfologové 1"}
+	\includegraphics[width=0.85\linewidth]{"images/logos/Partnerlogos/2022 04 25 záštita ČGS geomorfologové 1"}
 \end{figure}
 
 
@@ -143,44 +143,35 @@ Institute of Geography, Slovak Academy of Sciences
 
 \chapter{Timetable}
 
-
-\TLtag: talk, \POtag: poster
-
-\section{Preconference workshop}
-
-\begin{longtable}{|C{0.15\linewidth}| C{0.04\linewidth}|  C{0.3\linewidth} C{0.0\linewidth} C{0.4\linewidth}|}\hline	
-	\eventtype{}{Tuesday May 17, 2022}
-	\tablebreak{12:00--13:00}{Arrival/accommodation of the participants}
-	\tablebreak{13:00--17:00}{Field survey and data acquisition on the Bečva River}
-	\tablebreak{17:00--19:00}{Data processing}
-	\eventtype{}{Wednesday May 18, 2022}
-	\tablebreak{9:00--12:00}{Data processing and modelling, presentation of the results}
-
-\end{longtable}
+\section{Tuesday--Wednesday May 17--18, 2022}
+Pre-conference workshop
 
 \section{Wednesday May 18, 2022}
 \begin{longtable}{|C{0.15\linewidth}| C{0.04\linewidth}|  C{0.3\linewidth} C{0.0\linewidth} C{0.4\linewidth}|}\hline	
-	\tablebreak{9:00--13:00}{Registration}
-	\tablebreak{13:00}{Conference opening, invited lectures}
-	\tablebreak{15:30}{Oral presentations}
-	\tablebreak{17:00}{Poster session}
+	\tablebreak{9:00--13:00}{Participant registration}
+	\tablebreak{13:00--13:45}{Conference opening, Best Thesis Contest Award ceremony}
+	\tablebreak{13:45--16:45}{Oral presentations}
+	\tablebreak{17:00--18:00}{Poster session 1}
 	\tablebreak{19:00}{Plenary meeting of the Czech Association of Geomorphologists}
 	\tablebreak{19:00}{Plenary meeting of the Association of Slovak Geomorphologists}
 \end{longtable}
 
 \section{Thursday May 19, 2022}
 \begin{longtable}{|C{0.15\linewidth}| C{0.04\linewidth}|  C{0.3\linewidth} C{0.0\linewidth} C{0.4\linewidth}|}\hline	
-	\tablebreak{8:30--17:00}{Oral presentations}
-	\tablebreak{17:00}{Poster session}
+	\tablebreak{8:30--17:45}{Oral presentations}
+	\tablebreak{18:00--19:00}{Poster session 2}
 	\tablebreak{20:00}{Closing ceremony, Festive dinner}
 \end{longtable}
 
 \section{Friday May 20, 2022}
 \begin{longtable}{|C{0.15\linewidth}| C{0.04\linewidth}|  C{0.3\linewidth} C{0.0\linewidth} C{0.4\linewidth}|}\hline	
-	\tablebreak{8:30--16:00}{Conference field trip}
+	\tablebreak{9:00--16:00}{Conference field trip}
 \end{longtable}
 
-\newpage
+\vspace{5em}
+
+\TLtag = talk, \POtag = poster
+%\newpage
 
 %------------------------------------------------
 %
@@ -214,18 +205,6 @@ Institute of Geography, Slovak Academy of Sciences
 %	\tablebreak{12:45--14:00}{Lunch}
 %\end{longtable}
 
-%----------------------------------------------------------------------------------------
-%	 LIST OF TALK ABSTRACTS
-%----------------------------------------------------------------------------------------
-
-% Abstract template
-%\abstract
-%	{} % Title
-%	{} % Author(s)
-%	{} % Tag, can be: empty, \KLtag (keynote lecture), \IStag (invited speaker), \CTtag (contributed talk) or \ITtag (invited talk)
-%	{} % Affiliation(s)
-%	{} % Abstract text
-
 \chapter{List of Abstracts}
 
 
@@ -235,94 +214,14 @@ Institute of Geography, Slovak Academy of Sciences
 \input{abstracts_QZ}
 
 
-
-
-%------------------------------------------------
-
-%\chapter{List of Abstracts -- Posters} 
-
-%\vspace{-2.5em}
-
-
-%------------------------------------------------
-
-%----------------------------------------------------------------------------------------
-%	 LIST OF PARTICIPANTS
-%----------------------------------------------------------------------------------------
-
-%\chapter{List of Participants}
-%
-%\begingroup
-%	\rowcolors{1}{gray!25}{white} % Alternating row colours
-%	\begin{longtable}{p{0.4\linewidth} p{0.4\linewidth}}
-%		\hline
-%		John1 Doe1 & Barcelona, Spain \\ \hline
-%		John2 Doe2 & Barcelona, Spain \\ \hline
-%		John3 Doe3 & Barcelona, Spain \\ \hline
-%		John4 Doe4 & Barcelona, Spain \\ \hline
-%		John5 Doe5 & Barcelona, Spain \\ \hline
-%		John6 Doe6 & Barcelona, Spain \\ \hline
-%		John7 Doe7 & Barcelona, Spain \\ \hline
-%		John8 Doe8 & Barcelona, Spain \\ \hline
-%		John9 Doe9 & Barcelona, Spain \\ \hline
-%		John10 Doe10 & Barcelona, Spain \\ \hline
-%		John11 Doe11 & Barcelona, Spain \\ \hline
-%		John12 Doe12 & Barcelona, Spain \\ \hline
-%		John13 Doe13 & Barcelona, Spain \\ \hline
-%		John14 Doe14 & Barcelona, Spain \\ \hline
-%		John15 Doe15 & Barcelona, Spain \\ \hline
-%		John16 Doe16 & Barcelona, Spain \\ \hline
-%		John17 Doe17 & Barcelona, Spain \\ \hline
-%		John18 Doe18 & Barcelona, Spain \\ \hline
-%		John19 Doe19 & Barcelona, Spain \\ \hline
-%		John20 Doe20 & Barcelona, Spain \\ \hline
-%		John21 Doe21 & Barcelona, Spain \\ \hline
-%		John22 Doe22 & Barcelona, Spain \\ \hline
-%		John23 Doe23 & Barcelona, Spain \\ \hline
-%		John24 Doe24 & Barcelona, Spain \\ \hline
-%		John25 Doe25 & Barcelona, Spain \\ \hline
-%		John26 Doe26 & Barcelona, Spain \\ \hline
-%		John27 Doe27 & Barcelona, Spain \\ \hline
-%		John28 Doe28 & Barcelona, Spain \\ \hline
-%		John29 Doe29 & Barcelona, Spain \\ \hline
-%	\end{longtable}
-%\endgroup
-% 
-%----------------------------------------------------------------------------------------
-%	 USEFUL INFORMATION
-%----------------------------------------------------------------------------------------
-%
-%\chapter{Useful Information}
-%
-%\textbf{Talks} will be held at the \textbf{Conference Hall-Auditorium} of PRBB. It is situated on the first floor of the central courtyard and
-%has independent access from the rest of the building (through stairs located at the ground floor, main entrance of PRBB). 
-%
-%\textbf{Coffee breaks and lunches} will be offered in the half-covered terrace in front of the main entrance of the conference hall.
-%
-%The \textbf{poster session} will be held on Tuesday and Wednesday night on the \textbf{ground floor} of the PRBB. 
-%
-%Wi-Fi will be available during the conference. The PRBB also provides access to an eduroam network.
-%
-%The \textbf{conference dinner} will be held at the "The best restaurant", at Some Street, 39, Barcelona.
-%
-%\section{How to get to the PRBB?}
-%
-%The PRBB building overlooks the Ronda del Litoral and is next to the twin towers of the Olympic Village: Torre Mapfre and Arts Hotel. The address is Carrer del Dr. Aiguader, 88, 08003 Barcelona, Spain. and and can be reached by:
-%
-%\begin{itemize}
-%	\item \textbf{Subway:} yellow line, L4, station Ciutadella/Vila Ol\'{i}mpica,
-%	\item \textbf{Bus:} lines V21, 14, 36, 41, 45, 59, 71, 92, D20,
-%	\item \textbf{Tram:} line 4, stop Vila Ol\'{i}mpica.
-%\end{itemize}
-
-\newpage
+%\newpage
 
 
 %----------------------------------------------------------------------------------------
 %	 PARTNERS & SPONSORS
 %----------------------------------------------------------------------------------------
 
-\chapter{Sponsors}
+\chapter{Sponsor}
 \centering
 \includegraphics[width=0.9\linewidth]{"images/logos/Partnerlogos/logo dendro"}
 
